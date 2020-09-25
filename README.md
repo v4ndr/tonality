@@ -1,12 +1,12 @@
 # tonality
 
-Tonality est un outil pour les musiciens de groupe de louange.
+Tonality is a tool for worship band musicians.
 
-Il synthétise dans un format de poche, les chants les plus chantés dans les églises transcrits en "degrés".
+It synthesizes in a pocket format, the songs most sung in churches transcribed in "degrees".
 
-Le système des degrés permet une lecture simplifiée, une transposition rapide des grilles d'accords.
+The numbers system, based on degrees, allows a simplified reading, a rapid transposition of chord grids.
 
-La transcription des chants est en cours.
+The transcription of the songs is in progress.
 
 # SCREENSHOTS
 
