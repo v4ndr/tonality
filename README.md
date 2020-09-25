@@ -1,6 +1,5 @@
 # tonality
 
-[French]
 Tonality est un outil pour les musiciens de groupe de louange.
 
 Il synthétise dans un format de poche, les chants les plus chantés dans les églises transcrits en "degrés".
