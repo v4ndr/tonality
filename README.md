@@ -1,4 +1,4 @@
-# tonality
+# TONALITY
 
 Tonality is a tool for worship band musicians.
 
