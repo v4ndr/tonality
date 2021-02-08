@@ -1,6 +1,6 @@
 # TONALITY
 
-*PROJECT NO LONGER UPDATED : REPLACED BY <a href="https://github.com/vanderpit/NOKEY">NOKEY APP</a>*
+*PROJECT NO LONGER UPDATED : REPLACED BY <a href="https://github.com/v4ndr/NOKEY">NOKEY APP</a>*
 
 Tonality is a tool for worship band musicians.
 
