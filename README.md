@@ -1,5 +1,7 @@
 # TONALITY
 
+<strong>PROJECT NO LONGER UPDATED : REPLACED BY <a href="https://github.com/vanderpit/NOKEY">NOKEY APP</a></strong>
+
 Tonality is a tool for worship band musicians.
 
 It synthesizes in a pocket format, the songs most sung in churches transcribed in "degrees".
